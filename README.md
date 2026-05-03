@@ -38,7 +38,7 @@ Quick reference guides for tools and technologies I use as a Data & Cloud Engine
 | Cheat Sheet | Topics covered | Status |
 |---|---|---|
 | SQL | SELECT, JOINs, window functions, CTEs, aggregations | 🔜 Coming soon |
-| PySpark | DataFrames, transformations, Spark SQL, Delta Lake | 🔜 Coming soon |
+| [PySpark →](https://github.com/rubenjcano/Apache-Spark-Guide) | DataFrames, transformations, Spark SQL, Delta Lake | 📖 Full guide available |
 | dbt | Models, sources, tests, macros, snapshots | 🔜 Coming soon |
 
 ### 🐍 Programming & Scripting
@@ -64,3 +64,4 @@ Each file is a standalone quick reference — no setup needed. Use `Ctrl+F` to s
 | [microsoft-azure](https://github.com/rubenjcano/microsoft-azure) | Azure certification notes and learning paths |
 | [python](https://github.com/rubenjcano/python) | Python learning — core, data engineering, projects |
 | [ai-agentic-ai](https://github.com/rubenjcano/ai-agentic-ai) | AI fundamentals, LLMs, and agentic systems |
+| [Apache-Spark-Guide](https://github.com/rubenjcano/Apache-Spark-Guide) | Comprehensive Apache Spark guide for data engineers |
